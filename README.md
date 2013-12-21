@@ -16,5 +16,8 @@ is a good primer.
 
 ## Meetings
 
+It's an open invite so anyone is welcome to attend, just tell us you are coming
+by marking yourself as attending on Lanyrd (see links below).
+
 1. [Chapter 1 Toys - Mon Jan 20th
 6:30pm-8:30pm](http://lanyrd.com/ctxgk).
