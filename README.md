@@ -13,3 +13,8 @@ basis for the interpreter we write. If you've not used it before then
 [Aaron Gough's introduction to
 Treetop](http://thingsaaronmade.com/blog/a-quick-intro-to-writing-a-parser-using-treetop.html)
 is a good primer.
+
+## Meetings
+
+1. [Chapter 1 Toys - Mon Jan 20th
+6:30pm-8:30pm](http://lanyrd.com/ctxgk).
