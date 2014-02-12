@@ -21,6 +21,6 @@ otherwise inconvenient for us.
 
    @tomstuart posted an excellent [round up to proceedings](https://groups.google.com/forum/#!topic/computationbook/iGpSysf3IE0) with links to all the code written and there follows a discussion of what we might do for the next meeting.
 
-2. [Meeting 2 - Mon 3rd Feb 6:30pm-8:30pm](http://lanyrd.com/cwzrq).
+2. [Meeting 2 - Mon 3rd Feb 6:30pm-8:30pm](http://lanyrd.com/cwzrq)
 
 3. Meeting 3 - Mon 24th Feb 6:30pm-8:30pm
