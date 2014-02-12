@@ -23,4 +23,4 @@ otherwise inconvenient for us.
 
 2. [Meeting 2 - Mon 3rd Feb 6:30pm-8:30pm](http://lanyrd.com/cwzrq)
 
-3. Meeting 3 - Mon 24th Feb 6:30pm-8:30pm
+3. [Meeting 3 - Mon 24th Feb 6:30pm-8:30pm](http://lanyrd.com/cxhkd)
