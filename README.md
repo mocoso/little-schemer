@@ -32,3 +32,9 @@ up](https://groups.google.com/forum/#!topic/computationbook/ortjT-KcO4A)
 up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 
 5. [Meeting 5 - Mon 31st Mar 6:30pm-8:30pm](http://lanyrd.com/cydcw)
+
+## The code
+
+All the code for our interpreter can be found
+in the
+[@tomstuart/little_scheme](https://github.com/tomstuart/little_scheme) repo.
