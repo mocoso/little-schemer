@@ -31,7 +31,7 @@ up](https://groups.google.com/forum/#!topic/computationbook/ortjT-KcO4A)
 [round
 up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 
-5. [Meeting 5 - Mon 31st Mar 6:30pm-8:30pm](http://lanyrd.com/cydcw)
+5. [Meeting 5 - Mon 31st Mar 6:30pm-8:30pm](http://lanyrd.com/cydcw) - [round up](https://groups.google.com/d/msg/computationbook/bEIm3WmVxxE/3gYDkuRUM60J)
 
 ## The code
 
