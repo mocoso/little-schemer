@@ -33,6 +33,9 @@ up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 
 5. [Meeting 5 - Mon 31st Mar 6:30pm-8:30pm](http://lanyrd.com/cydcw) - [round up](https://groups.google.com/d/msg/computationbook/bEIm3WmVxxE/3gYDkuRUM60J)
 
+6. [Meeting 6 - Mon 28th Apr 6:30pm-8:30pm](http://lanyrd.com/cymzm) - [round up](https://groups.google.com/forum/#!topic/computationbook/s7IF6FS8vqo)
+
+
 ## The code
 
 All the code for our interpreter can be found
