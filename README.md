@@ -37,6 +37,10 @@ up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 
 7. [Meeting 7 - Mon 19th May 6:30pm-8:30pm](http://lanyrd.com/cywpk) - [round up](https://groups.google.com/d/msg/computationbook/HrGpERdcFRg/IyWHR5BcZdQJ)
 
+8. [Meeting 8 - Mon 2nd Jun 6:30pm-8:30pm](http://lanyrd.com/2014/little-schemer-book-club-june/)
+
+9. [Meeting 9 - Mon 23rd Jun 6:30pm-8:30pm](http://lanyrd.com/2014/the-little-schemer-book-club-meeting-9/)
+
 
 ## The code
 
