@@ -35,7 +35,7 @@ up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 
 6. [Meeting 6 - Mon 28th Apr 6:30pm-8:30pm](http://lanyrd.com/cymzm) - [round up](https://groups.google.com/forum/#!topic/computationbook/s7IF6FS8vqo)
 
-7. [Meeting 7 - Mon 19th May 6:30pm-8:30pm](http://lanyrd.com/cywpk)
+7. [Meeting 7 - Mon 19th May 6:30pm-8:30pm](http://lanyrd.com/cywpk) - [round up](https://groups.google.com/d/msg/computationbook/HrGpERdcFRg/IyWHR5BcZdQJ)
 
 
 ## The code
@@ -43,3 +43,4 @@ up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 All the code for our interpreter can be found
 in the
 [@tomstuart/little_scheme](https://github.com/tomstuart/little_scheme) repo.
+j
