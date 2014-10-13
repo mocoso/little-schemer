@@ -37,14 +37,20 @@ up](https://groups.google.com/forum/#!topic/computationbook/mmP9TvQJsmQ)
 
 7. [Meeting 7 - Mon 19th May 6:30pm-8:30pm](http://lanyrd.com/cywpk) - [round up](https://groups.google.com/d/msg/computationbook/HrGpERdcFRg/IyWHR5BcZdQJ)
 
-8. [Meeting 8 - Mon 2nd Jun 6:30pm-8:30pm](http://lanyrd.com/2014/little-schemer-book-club-june/)
+8. [Meeting 8 - Mon 2nd Jun 6:30pm-8:30pm](http://lanyrd.com/2014/little-schemer-book-club-june/) - [round up](https://groups.google.com/d/msg/computationbook/BJYI_zBODzk/H86AopiJynoJ)
 
-9. [Meeting 9 - Mon 23rd Jun 6:30pm-8:30pm](http://lanyrd.com/2014/the-little-schemer-book-club-meeting-9/)
+9. [Meeting 9 - Mon 23rd Jun 6:30pm-8:30pm](http://lanyrd.com/2014/the-little-schemer-book-club-meeting-9/) - [round up](https://groups.google.com/d/msg/computationbook/rVFWbMomyYA/eGRPnszG_fMJ)
 
+10. [Meeting 10 - Mon 7th Jul 6:30pm-8:30pm](http://lanyrd.com/2014/little-schemer-book-club-july/) - [round up](https://groups.google.com/d/msg/computationbook/fiLu2jDed60/1636C7CcybEJ)
+
+11. [Meeting 11 - Mon 28th Jul 6:30pm-8:30pm](http://lanyrd.com/2014/the-little-schemer-book-club-meeting-11/)
+
+12. [Meeting 12 - Mon 1st Sep 6:30pm-8:30pm](http://lanyrd.com/2014/little-schemer-book-club-august/) - [round up](https://groups.google.com/d/msg/london-computation-club/fvWvIApqjWI/3xY2zi0ej44J)
+
+13. [Meeting 13 - Mon 22nd Sep 6:30pm-8:30pm](http://lanyrd.com/2014/little-schemer-book-club-september/) - [round up](https://groups.google.com/d/msg/london-computation-club/4WeajK29_hY/B4SrUiAgNUYJ)
 
 ## The code
 
 All the code for our interpreter can be found
 in the
 [@tomstuart/little_scheme](https://github.com/tomstuart/little_scheme) repo.
-j
